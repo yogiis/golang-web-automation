@@ -15,6 +15,7 @@
 - Playwright `v0.2000.1`
 - Godog version `0.12.6`
 - Testify version `v1.8.4`
+- Gocure `v23.02.14`
 
 ## How to Getting Started
 
